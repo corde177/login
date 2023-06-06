@@ -1,0 +1,29 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: cnter;
+}
+
+h3 {
+  margin-bottom: 2rem;
+}
+input {
+  margin: 0.4rem;
+}
+.search {
+  width: 100%;
+  height: 50px;
+  padding: 1rem;
+  border: 1px solid #fff;
+  border-radius: 0.5rem; 
+}
+
+.btn {
+  width: 100%;
+  height: 50px;
+  padding: 1rem;
+  border: 1px solid #ff0045;
+  background-color: #ff0045;
+  color: #fff;
+  border-radius: 0.5rem;
+}
